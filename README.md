@@ -1,4 +1,4 @@
-# profile
+# PROFILE
 # 💫 About Me:
 *interning in Data Analytics & AI<br>*always ready to collab on any project — the messier the problem, the more interesting it gets. if you're building something, I'm in.<br>*actively trying to figure out how to get models out of my laptop and into actual production without losing my mind. if you've been there, let's talk — I have questions.<br>*currently building healthcare prediction models and exploring how data can drive real business decisions. slowly learning that the best AI tools are the ones you actually understand, not just run.<br>*someone who takes full ownership of whatever role I'm given — I show up, follow through, and do justice to it. accountability isn't something I perform, it's just how I operate.<br>outside of tech I'm running with a podcast in my ears, watching random things just to see how the world works. somewhere between those runs and observations, my perspective keeps shifting — and I think that's the point.
 
